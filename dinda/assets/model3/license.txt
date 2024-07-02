@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ceramic Ostrich by Fany Gaillard
+* source:	https://sketchfab.com/3d-models/ceramic-ostrich-by-fany-gaillard-79dc836779d8496282cb3a046ec19515
+* author:	Berr (https://sketchfab.com/Berr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ceramic Ostrich by Fany Gaillard" (https://sketchfab.com/3d-models/ceramic-ostrich-by-fany-gaillard-79dc836779d8496282cb3a046ec19515) by Berr (https://sketchfab.com/Berr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

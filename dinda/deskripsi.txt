@@ -1,0 +1,12 @@
+Judul: Artefak Sejarah dalam Museum Virtual
+
+Deskripsi:
+Museum virtual ini menampilkan berbagai artefak sejarah yang disusun secara interaktif dalam ruang 3D. Didesain untuk pemula, setiap artefak hadir dengan deskripsi detail dan fitur interaktif untuk memperkaya pengalaman belajar.
+
+Fitur Utama:
+
+Artefak Bersejarah:
+
+Patung Peninggalan Kuno: Representasi digital dari patung kuno yang ditemukan di situs arkeologi. Pengguna dapat memutar dan memperbesar patung untuk melihat detail ukiran dan tekstur.
+Alat Pertanian Kuno: Model 3D dari alat-alat pertanian yang digunakan oleh peradaban kuno. Setiap alat disertai dengan penjelasan fungsinya dan sejarah penggunaannya.
+Perhiasan Antik: Koleksi perhiasan dari berbagai era, termasuk cincin, kalung, dan gelang. Detail-detail halus pada perhiasan ini dapat dilihat dari berbagai sudut.

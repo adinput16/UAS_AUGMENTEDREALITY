@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dinosaur dataset model test (MicMac + TexRecon)
+* source:	https://sketchfab.com/3d-models/dinosaur-dataset-model-test-micmac-texrecon-9ca14811022f44bc9d7790eb653e9ef1
+* author:	Berr (https://sketchfab.com/Berr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dinosaur dataset model test (MicMac + TexRecon)" (https://sketchfab.com/3d-models/dinosaur-dataset-model-test-micmac-texrecon-9ca14811022f44bc9d7790eb653e9ef1) by Berr (https://sketchfab.com/Berr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

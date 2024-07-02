@@ -1,0 +1,11 @@
+Model Information:
+* title:	Loie Fuller sculpture by Joseph Kratina
+* source:	https://sketchfab.com/3d-models/loie-fuller-sculpture-by-joseph-kratina-05ba00cefb5b4a7e8cecda2a91d6a568
+* author:	Minneapolis Institute of Art (https://sketchfab.com/artsmia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Loie Fuller sculpture by Joseph Kratina" (https://sketchfab.com/3d-models/loie-fuller-sculpture-by-joseph-kratina-05ba00cefb5b4a7e8cecda2a91d6a568) by Minneapolis Institute of Art (https://sketchfab.com/artsmia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
